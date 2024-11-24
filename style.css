@@ -1,0 +1,50 @@
+.card-container
+{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.card
+{
+    width: 410px;
+    height: 410px;
+    margin: 10px;
+}
+.card-img
+{
+    margin-bottom: 7px;
+}
+
+#accordion {
+    margin-left: 90px;
+}
+
+.caed-body
+{
+    margin-left: 10px; 
+}
+
+.body
+{
+    position: relative; 
+}
+.card2
+{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+
+.table
+{
+    width: 100%;
+    margin: auto;
+}
+
+.display-6
+{
+    text-align: center;
+}
